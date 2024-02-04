@@ -12,12 +12,12 @@
 	<atom:link href="https://medallasfantasticas.netlify.app/feed/" rel="self" type="application/rss+xml" />
 	<link>https://medallasfantasticas.netlify.app</link>
 	<description></description>
-	<lastBuildDate>Sun, 28 Jan 2024 20:20:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Feb 2024 21:28:38 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>
